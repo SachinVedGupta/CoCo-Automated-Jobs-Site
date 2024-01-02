@@ -1,0 +1,42 @@
+[
+    {
+        "from": "Sachin",
+        "message": "How are you doing, my fellow applicant!",
+        "to": "Akshay"
+    },
+    {
+        "from": "Bob",
+        "message": "Can you move to the USA?",
+        "to": "Akshay"
+    },
+    {
+        "from": "Akshay",
+        "message": "Im am doing good! Thanks for Asking!",
+        "to": "Sachin"
+    },
+    {
+        "from": "Bob",
+        "message": "How",
+        "to": "Sachin"
+    },
+    {
+        "from": "Bob",
+        "message": "I am happy to request an interview with you! Please reply to confirm a date and time!",
+        "to": "Akshay"
+    },
+    {
+        "from": "Bob",
+        "message": "I am happy to request an interview with you! Please reply to confirm a date and time!",
+        "to": "Akshay"
+    },
+    {
+        "from": "John",
+        "message": "I am happy to request an interview with you! Please reply to confirm a date and time!",
+        "to": "Sachin"
+    },
+    {
+        "from": "John",
+        "message": "hi",
+        "to": "Akshay"
+    }
+]

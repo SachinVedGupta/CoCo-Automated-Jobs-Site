@@ -1,0 +1,100 @@
+[
+    {
+        "information": {
+            "Country": "USA",
+            "Experience": "2",
+            "Fieldofinterest": "Engineering",
+            "Level": "Entry",
+            "Oneword": "Creative"
+        },
+        "setup": {
+            "account_type": "User",
+            "password": "Leafs",
+            "username": "Sachin"
+        }
+    },
+    {
+        "information": {
+            "Country": "USA",
+            "Experience": "5",
+            "Fieldofinterest": "Computers",
+            "Level": "Manager",
+            "Oneword": "Hardworking"
+        },
+        "setup": {
+            "account_type": "User",
+            "password": "Crime",
+            "username": "Akshay"
+        }
+    },
+    {
+        "information": {
+            "Country": "Canada",
+            "Experience": "5",
+            "Fieldofinterest": "Computers",
+            "Level": "Manager",
+            "Oneword": "Smart"
+        },
+        "setup": {
+            "account_type": "Recruiter",
+            "password": "Tv",
+            "username": "Bob"
+        }
+    },
+    {
+        "information": {
+            "Country": "USA",
+            "Experience": "20",
+            "Fieldofinterest": "Music",
+            "Level": "CEO",
+            "Oneword": "Creative"
+        },
+        "setup": {
+            "account_type": "Recruiter",
+            "password": "Trump",
+            "username": "Joe"
+        }
+    },
+    {
+        "information": {
+            "Country": "Canada",
+            "Experience": "BLANK",
+            "Fieldofinterest": "BLANK",
+            "Level": "BLANK",
+            "Oneword": "BLANK"
+        },
+        "setup": {
+            "account_type": "User",
+            "password": "Hi",
+            "username": "Bob"
+        }
+    },
+    {
+        "information": {
+            "Country": "USA",
+            "Experience": "2",
+            "Fieldofinterest": "Engineering",
+            "Level": "Manager",
+            "Oneword": "Smart"
+        },
+        "setup": {
+            "account_type": "Recruiter",
+            "password": "Hi",
+            "username": "John"
+        }
+    },
+    {
+        "information": {
+            "Country": "BLANK",
+            "Experience": "BLANK",
+            "Fieldofinterest": "BLANK",
+            "Level": "BLANK",
+            "Oneword": "BLANK"
+        },
+        "setup": {
+            "account_type": "User",
+            "password": "hi",
+            "username": "bi"
+        }
+    }
+]
