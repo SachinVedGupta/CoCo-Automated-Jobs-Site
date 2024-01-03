@@ -38,5 +38,10 @@
         "from": "John",
         "message": "hi",
         "to": "Akshay"
+    },
+    {
+        "from": "Company",
+        "message": "I am happy to request an interview with you! Please reply to confirm a date and time!",
+        "to": "Sachin"
     }
 ]

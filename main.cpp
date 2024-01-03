@@ -548,7 +548,7 @@ int main()
       }
       else if (option_user == "B")
       {
-        cout << "\n\nYou have " << calculatematches(data, account_index, account_type) << " job matches!";
+        cout << "\n\nYou have " << calculatematches(data, account_index, account_type) << " job match! ";
 
         string autocad;
         cout << "Enter YES if you would like to email an interview request to all the candidate matches: ";

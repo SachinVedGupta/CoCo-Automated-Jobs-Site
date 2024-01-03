@@ -96,5 +96,33 @@
             "password": "hi",
             "username": "bi"
         }
+    },
+    {
+        "information": {
+            "Country": "Canada",
+            "Experience": "5",
+            "Fieldofinterest": "Software",
+            "Level": "Manager",
+            "Oneword": "Hardworking"
+        },
+        "setup": {
+            "account_type": "User",
+            "password": "Gupta",
+            "username": "Sachin"
+        }
+    },
+    {
+        "information": {
+            "Country": "Canada",
+            "Experience": "3",
+            "Fieldofinterest": "Software",
+            "Level": "Manager",
+            "Oneword": "Hardworking"
+        },
+        "setup": {
+            "account_type": "Recruiter",
+            "password": "Name",
+            "username": "Company"
+        }
     }
 ]
